@@ -27,8 +27,8 @@ dist/
 logs
 
 # OS files
-.DS_Store       # macOS
-Thumbs.db       # Windows
+.DS_Store
+Thumbs.db
 
 # Secrets / config files (optional, if sensitive)
 .env
